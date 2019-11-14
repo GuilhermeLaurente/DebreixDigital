@@ -1,5 +1,6 @@
 # DebreixDigital
-Repositório destinado a hospedar e documentar o projeto Debreix Digital
+Repositório destinado a hospedar e documentar o projeto Debreix Digital - Poesia visual e Interatividade
 
 
-![Wiki](https://github.com/GuilhermeLaurente/DebreixDigital/wiki)
+Acesse a documentação do projeto:
+# ![Wiki](https://github.com/GuilhermeLaurente/DebreixDigital/wiki)
